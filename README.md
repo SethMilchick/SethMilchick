@@ -15,9 +15,7 @@ Multilingual frontend developer with 2+ years of experience building responsive,
 
 ## Featured Projects
 
-- 🎉 **Pool Party** — event/invitation-style frontend project
-- 🐝 **Bee Valentine** — themed UI project with custom styling
-- 🎃 **Halloween** — seasonal frontend project
+- 🎉 **Creator Circle** — Creator Circle is a small React community directory where you can create profile cards, browse people, and follow or unfollow them while seeing live follower stats update on the page
 
 ## JS Course Projects
 
