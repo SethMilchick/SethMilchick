@@ -13,19 +13,22 @@ Multilingual frontend developer with 2+ years of experience building responsive,
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,angular,react,vue,git,github,vscode)
 
-## Featured Projects
+Featured Projects
+🎉 Creator Circle — React-based creator directory with dynamic profile cards, follow/unfollow interactions, and live follower counts powered by local state and reusable components.
 
-- 🎉 **Creator Circle** — Creator Circle is a small React community directory where you can create profile cards, browse people, and follow or unfollow them while seeing live follower stats update on the page
+🎲 Piggy Game — Browser dice game built with modern JavaScript and Vite, focusing on game state management, DOM updates, and clean UI feedback for wins, turns, and scoring.
 
-## JS Course Projects
+🔢 Guess Number Game — Small logic game that showcases vanilla JS DOM manipulation, user input handling, and clear feedback loops for success and failure states.
 
-- 🎲 **Pig Game** — interactive JavaScript browser game
-- 🔢 **Guess Number Game** — DOM-based logic game
-- ✅ **To-Do App** — task manager project
-- 🍴 **Forkify** — recipe app project
+🍴 Forkify — Recipe search app consuming a public API, with loading states, error handling, and responsive layout — a practice project in async JavaScript and stateful UI.
 
-## Currently Learning
+🏠 Homes app — UI prototype for a real-estate listings page, focused on layout, responsive design, and accessible card components rather than backend complexity.
 
-- ⚛️ React
-- 🎨 Better UI structure
-- 🧠 Advanced JavaScript
+Currently Learning
+⚛️ React & modern tooling — Component-driven UIs, hooks, and Vite-based workflows that match current industry standards.
+
+🎨 Designing usable interfaces — Structuring pages, typography, spacing, and micro-interactions so projects feel like real products, not just code demos.
+
+🧠 Advanced JavaScript — Asynchronous code, patterns for managing state, and cleaner architecture so games and apps stay maintainable as they grow.
+
+If you tell me which project you want to emphasize for junior React roles, I can turn that one into a short “case study” blurb you can use on your portfolio.
