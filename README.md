@@ -1,8 +1,8 @@
 # Hi, I'm Martynas 👋
 
-### Frontend Developer | JavaScript | Angular | React
+### Frontend Developer
 
-Multilingual frontend developer with 2+ years of experience building responsive, user-friendly web applications using Angular, TypeScript, JavaScript, HTML, CSS, and SASS.
+Multilingual frontend developer with 2+ years of experience building responsive, user-friendly web applications using JavaScript, HTML, CSS. I have commercial experience with Vue.js and Angular. Built projects with Angular, Vue,js and React.
 
 ## Connect with me
 
